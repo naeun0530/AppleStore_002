@@ -1,0 +1,52 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+구글 머티리얼 아이콘
+
+<link rel="stylesheet" href=./css/all.min.css">
+fontawesome
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css">
+CSS 초기화
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+스와이퍼 연결
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+jQuery
+
+  <link rel="stylesheet" href="./css/style.css">
+css연결
+@charset "utf-8";
+
+  <script defer src="./js/custom.js"></script>
+자바스크립트 연결
+document.addEventListener('DOMContentLoaded', function(){
+
+  'use strict';
+
+});
+
+제이쿼리
+$(document).ready(function(){
+    
+});
+
+axios API
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+-------------
+
+폰트 연결 ↓↓↓
+
+＊구글 폰트 (Noto Sans) 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap'); 
+
+font-face : 오프라인 서체를 온라인 상에서도 동일하게 사용할 수 있도록 변환하여 연결해주는 역할
+	 만약에 오프라인 상태에서 디자인과 코딩 결과를 산출했다면 사용서체를 웹에서도 인식시켜야 정상적으로 보여진다.
+
+＊프리텐다드 서체
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
